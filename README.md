@@ -1,7 +1,7 @@
 ### Hello there and welcome 👋
 
 I'm Kevin. I'm a full-time Software Engineer and full-time Web Development student.
-I'm always working on something and am interested in collaborating in projects so please reach out at anytime!
+I'm always working on something and am interested in collaborating on projects so please reach out at anytime!
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Kevin. I'm a Software Engineer who loves solving problems.
+I'm Kevin. I'm constantly striving to be better than I was yesterday. 
 I'm always working on something and am interested in collaborating on projects so please reach out anytime!
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

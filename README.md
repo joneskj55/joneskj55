@@ -2,6 +2,8 @@
 
 I'm Kevin. I'm constantly striving to be better than I was yesterday. The more I learn, the more I realize how much I still have to learn. 
 I'm always working on something and am interested in collaborating on projects so please reach out anytime!
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joneskj55&theme=dark&show_icons=true&hide=issues,contribs,stars)](https://github.com/joneskj55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joneskj55&layout=compact&theme=dark&hide=html)](https://github.com/joneskj55/github-readme-stats)
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

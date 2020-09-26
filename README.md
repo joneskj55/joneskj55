@@ -1,7 +1,6 @@
 ### Hi! 👋
 
-I'm Kevin. I'm constantly striving to be better than I was yesterday. The more I learn, the more I realize how much I still have to learn. 
-I'm always working on something and am interested in collaborating on projects so please reach out anytime!
+I'm Kevin. I'm constantly striving to be better than I was yesterday. The more I learn, the more I realize how much I still have to learn. The search for, and discovery of solutions is my dopamine rush. I'm always working on something and am interested in collaborating on projects so please reach out anytime!
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

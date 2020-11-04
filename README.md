@@ -1,9 +1,6 @@
 ### Hi! 👋
 
 I'm Kevin. I'm constantly striving to be better than I was yesterday. The search for, discovery, and implementation of solutions is what I love most about the development process. I'm always working on something and am interested in collaborating on projects so please reach out anytime!<br>
-
-![octocat vote](https://user-images.githubusercontent.com/3104489/97828882-616ae680-1c96-11eb-8110-4f39349b4033.gif)
-
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

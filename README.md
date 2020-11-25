@@ -12,3 +12,6 @@ I'm Kevin. I'm constantly striving to be better than I was yesterday. The search
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+[![Kevin's Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark&hide=stars,issues)](https://github.com/joneskj55/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joneskj55&layout=compact&theme=dark)](https://github.com/joneskj55/github-readme-stats)
+

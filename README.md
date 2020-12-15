@@ -2,6 +2,7 @@
 
 I'm Kevin. I'm constantly striving to be better than I was yesterday. The search for, discovery, and implementation of solutions is what I love most about the development process. I'm always working on something and am interested in collaborating on projects so please reach out anytime!<br>
 ![octocat](https://github.com/joneskj55/joneskj55/blob/master/octocat.png?raw=true)
+![octocat](https://github.com/joneskj55/joneskj55/blob/master/octocat2.png?raw=true)
 
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

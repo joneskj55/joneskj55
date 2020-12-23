@@ -13,8 +13,8 @@ const joneskj55 = {
   site: "https://kevinjones.engineer"
 };
 ```
-![Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55&theme=dark)
 
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

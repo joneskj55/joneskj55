@@ -17,3 +17,4 @@ I'm Kevin. I'm constantly striving to be better than I was yesterday. The search
 [![Kevin's Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark)](https://github.com/joneskj55/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joneskj55&layout=compact&theme=dark)](https://github.com/joneskj55/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55)](https://github.com/joneskj55/github-readme-streak-stats)

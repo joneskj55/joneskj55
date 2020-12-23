@@ -13,7 +13,7 @@ I'm Kevin. I'm constantly striving to be better than I was yesterday. The search
 - 📫 How to reach me: email
 - ⚡ Fun fact: ...
 -->
-[![Kevin's Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true)]
+![Kevin's Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true)
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55)

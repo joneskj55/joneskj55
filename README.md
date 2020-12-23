@@ -1,7 +1,6 @@
 ### Hi! 👋
 
 I'm Kevin. I'm constantly striving to be better than I was yesterday. The search for, discovery, and implementation of solutions is what I love most about the development process. I'm always working on something and am interested in collaborating on projects so please reach out anytime!<br>
-![octocat](https://github.com/joneskj55/joneskj55/blob/master/octocat2.png?raw=true)
 
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ I'm Kevin. I'm constantly striving to be better than I was yesterday. The search
 - 📫 How to reach me: email
 - ⚡ Fun fact: ...
 -->
-[![Kevin's Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark)](https://github.com/joneskj55/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joneskj55&layout=compact&theme=dark)](https://github.com/joneskj55/github-readme-stats)
+[![Kevin's Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true)]
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55)](https://github.com/joneskj55/github-readme-streak-stats)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55)

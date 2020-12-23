@@ -2,9 +2,8 @@
 const joneskj55 = {
   name: "Kevin Jones",
   AKA: ["KJ", "Kevin"],
-  age: 36,
   favorites: ["JavaScript", "HTML", "CSS", "Git"],
-  role: "Software Engineer",
+  role: ["Software Engineer", "Open Source Contributer"],
   site: "https://kevinjones.engineer"
 };
 ```

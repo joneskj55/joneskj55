@@ -1,4 +1,4 @@
-<h2>
+<h3>
   
 ```javascript
 const joneskj55 = {
@@ -14,7 +14,7 @@ const joneskj55 = {
   quitter: false
 };
 ```
-</h2>
+</h3>
 <!--```javascript
 const joneskj55 = {
   name: "Kevin Jones",

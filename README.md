@@ -9,9 +9,14 @@ const joneskj55 = {
 };
 ``` 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55&theme=dark)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55&theme=dark)-->
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joneskj55&show_icons=true&theme=dark" alt="Kevin's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joneskj55&theme=dark" alt="Kevin's GitHub stats" />
+</p>
 <!--
 **joneskj55/joneskj55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi! 👋

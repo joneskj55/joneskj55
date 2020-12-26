@@ -5,7 +5,6 @@ const joneskj55 = {
   favorites: ["JavaScript", "HTML", "CSS", "Git"],
   role: ["Software Engineer", "Open Source Contributer"],
   site: "https://kevinjones.engineer",
-  caresaboutyournegativeopinion: false,
   winner: true
 };
 ``` 

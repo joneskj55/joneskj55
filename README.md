@@ -1,5 +1,3 @@
-<h4>
-  
 ```javascript
 const joneskj55 = {
   name: "Kevin Jones",
@@ -8,8 +6,7 @@ const joneskj55 = {
   role: ["Software Engineer", "Open Source Contributer"],
   site: "https://kevinjones.engineer"
 };
-```
-</h4>  
+``` 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55&theme=dark)

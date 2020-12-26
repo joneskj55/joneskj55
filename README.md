@@ -1,4 +1,4 @@
-```javascript
+<!--```javascript
 const joneskj55 = {
   name: "Kevin Jones",
   aka: ["KJ", "Kevin"],
@@ -11,8 +11,39 @@ const joneskj55 = {
   winner: true,
   quitter: false
 };
-``` 
+``` -->
 
+```javascript
+const joneskj55 = {
+  name: "Kevin Jones",
+  aka: ["KJ", "Kevin"],
+  favorites: [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Git"
+  ],
+  learning: [
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ],
+  role: [
+    "Software Engineer",
+    "Open Source Contributer"
+  ],
+  hobbies: [
+    "reading",
+    "travel",
+    "code",
+    "fitness"
+  ],
+  site: "https://kevinjones.engineer",
+  persistent: true,
+  winner: true,
+  quitter: false,
+};
+```
 <!--![Github Stats](https://github-readme-stats.vercel.app/api?username=joneskj55&count_private=true&show_icons=true&theme=dark) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joneskj55&theme=dark)-->
 
@@ -32,8 +63,5 @@ const joneskj55 = {
 - 📫 How to reach me: email
 - ⚡ Fun fact: ...
 -->
-
-
-
 
 

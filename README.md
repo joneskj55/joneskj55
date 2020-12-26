@@ -3,7 +3,9 @@ const joneskj55 = {
   name: "Kevin Jones",
   aka: ["KJ", "Kevin"],
   favorites: ["JavaScript", "HTML", "CSS", "Git"],
+  learning: ["Node.js", "Express", "MongoDB"],
   role: ["Software Engineer", "Open Source Contributer"],
+  hobbies: ["reading", "travel", "code", "fitness"]
   site: "https://kevinjones.engineer",
   persistent: true,
   winner: true,

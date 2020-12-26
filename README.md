@@ -4,7 +4,9 @@ const joneskj55 = {
   aka: ["KJ", "Kevin"],
   favorites: ["JavaScript", "HTML", "CSS", "Git"],
   role: ["Software Engineer", "Open Source Contributer"],
-  site: "https://kevinjones.engineer"
+  site: "https://kevinjones.engineer",
+  caresaboutyournegativeopinion: false,
+  winner: true
 };
 ``` 
 

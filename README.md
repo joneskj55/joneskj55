@@ -5,7 +5,7 @@ const joneskj55 = {
   favorites: ["JavaScript", "HTML", "CSS", "Git"],
   learning: ["Node.js", "Express", "MongoDB"],
   role: ["Software Engineer", "Open Source Contributer"],
-  hobbies: ["reading", "travel", "code", "fitness"],
+  hobbies: ["health", "fitness", "reading", "travel", "code"],
   site: "https://kevinjones.engineer",
   persistent: true,
   winner: true,

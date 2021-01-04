@@ -4,7 +4,7 @@ const joneskj55 = {
   aka: ["Kevin", "KJ"],
   favorites: ["JavaScript", "HTML", "CSS", "Git"],
   learning: ["Node.js", "Express", "MongoDB"],
-  role: ["Software Engineer", "Open Source Contributer"],
+  role: ["Software Engineer", "Open Source Contributor"],
   hobbies: ["health", "fitness", "reading", "travel", "code"],
   site: "https://kevinjones.engineer",
   persistent: true,

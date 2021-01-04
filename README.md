@@ -1,7 +1,7 @@
 ```javascript
 const joneskj55 = {
   name: "Kevin Jones",
-  aka: ["KJ", "Kevin"],
+  aka: ["Kevin", "KJ"],
   favorites: ["JavaScript", "HTML", "CSS", "Git"],
   learning: ["Node.js", "Express", "MongoDB"],
   role: ["Software Engineer", "Open Source Contributer"],

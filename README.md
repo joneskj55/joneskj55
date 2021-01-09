@@ -2,7 +2,7 @@
 const joneskj55 = {
   name: "Kevin Jones",
   aka: ["Kevin", "KJ"],
-  favorites: ["JavaScript", "HTML", "CSS", "Git"],
+  favorites: ["JavaScript", "Express", "CSS", "Git"],
   learning: ["Node.js", "Express", "MongoDB"],
   role: ["Software Engineer", "Open Source Contributor"],
   hobbies: ["health", "fitness", "reading", "travel", "code"],

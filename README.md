@@ -6,10 +6,6 @@ const joneskj55 = {
   learning: ["Node.js", "Express", "MongoDB"],
   role: ["Software Engineer", "Open Source Contributor"],
   hobbies: ["health", "fitness", "reading", "travel", "code"],
-  site: "https://kevinjones.engineer",
-  persistent: true,
-  winner: true,
-  quitter: false
 };
 ```
 <!--<h4>

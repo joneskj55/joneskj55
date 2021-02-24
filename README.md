@@ -1,11 +1,11 @@
 ```javascript
 const joneskj55 = {
   name: "Kevin Jones",
-  aka: ["Kevin", "KJ"],
   favorites: ["MongoDB", "Express", "JavaScript", "Node.js"],
-  learning: ["Node.js", "Express", "MongoDB"],
-  role: ["Software Engineer", "Open Source Contributor"],
   hobbies: ["health", "fitness", "reading", "travel", "code"],
+  persistent: true,
+  winner: true,
+  quitter: false
 };
 ```
 <!--<h4>

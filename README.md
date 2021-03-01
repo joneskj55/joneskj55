@@ -1,7 +1,7 @@
 ```javascript
 const joneskj55 = {
   name: "Kevin Jones",
-  favorites: ["MongoDB", "Express", "JavaScript", "Node.js"],
+  stack: ["MongoDB", "Express", "JavaScript", "Node.js"],
   hobbies: ["health", "fitness", "reading", "travel", "code"],
   persistent: true,
   winner: true,

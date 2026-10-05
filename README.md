@@ -1,4 +1,4 @@
-## 👋
+## 👋 สวัสดีครับ, Как дела? 
 
 Software engineer and founder building tools for information, risk, and intelligence in Southeast Asia. Most of my current work is private:
 

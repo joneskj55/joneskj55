@@ -4,7 +4,7 @@ Software engineer and founder building tools for information, risk, and intellig
 
 <a href="https://blackbook.fyi/"><img width="48" height="48" alt="blackbook brand logo" src="https://github.com/user-attachments/assets/fdfd9691-15f9-47ce-8a1f-889e9daaf929" align="center" hspace="10"/></a> 👈 **Blackbook**: a verified weekly intelligence brief for Black residents and visitors in Bangkok
  
-<a href="https://msri-delta.vercel.app"><img width="48" height="48" alt="msri brand logo" src="https://github.com/user-attachments/assets/8d462ff2-fd64-4ceb-b960-b9ffc1f7f642" align="center" hspace="10"/></a> 👈 **MSRI**: early-warning risk scores for trafficking-driven scam compounds
+<a href="https://msri.kevinjones.fyi"><img width="48" height="48" alt="msri brand logo" src="https://github.com/user-attachments/assets/8d462ff2-fd64-4ceb-b960-b9ffc1f7f642" align="center" hspace="10"/></a> 👈 **MSRI**: early-warning risk scores for trafficking-driven scam compounds
 
 <h2 align="center">Past open source work</h2>
 
